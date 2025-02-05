@@ -38,6 +38,6 @@ This study focuses on defining the ideal virtual TV-watching experience by:
 - Enhancing **privacy and security** measures for virtual social spaces.
 
 ## Credits
-- **Samin Asnaashari** (s.asnaashari@students.uu.nl)
-- **Michalina Modzelewska** (m.modzelewska@students.uu.nl)
-- **Eleni Mouzaki** (e.mouzaki@students.uu.nl)
+- Samin Asnaashari
+- Michalina Modzelewska
+- Eleni Mouzaki
